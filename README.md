@@ -1,60 +1,86 @@
 <div align="center">
-  <!-- 可选：顶部 banner 图，没有就删掉这个 div -->
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+# Yiwei Zhang
+
+### Software Engineer · AI Agents & Agent Systems
+
+I build production AI agent systems with a focus on tool execution, context management, and backend reliability.<br>
+My work spans agent infrastructure, long-context workflows, multi-agent reasoning, and document intelligence.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiwei-zhang-a0a311381/)
+[![Email](https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white)](mailto:zyw1137038537@gmail.com)
+
 </div>
+
+---
+
+## `01 / Engineering Focus`
+
+**Agent Tooling**<br>
+Tool interfaces, orchestration, and external capability integration.
+
+**Reliable Execution**<br>
+Validation, permissions, asynchronous execution, tracing, and recovery.
+
+**Context & Reasoning**<br>
+Long-context generation, multi-agent reasoning, and document workflows.
+
+---
+
+## `02 / Selected Engineering Work`
+
+### WorkBuddy · Production AI Agent Engineering
+
+*Software Engineer Intern, Tencent · Apr 2026 — Present*
+
+- Build and ship backend and agent workstreams from solution design through implementation, testing, and full production rollout, including search, web content retrieval, and multimodal tool capabilities.
+- Engineer controlled and reliable execution through layered validation, asynchronous tasks, human approval, temporary credentials, provider fallback, request tracing, session recovery, and regression testing.
+
+> Proprietary production work. Implementation details are intentionally limited.
 
 <br>
 
-> **M.S. student in Artificial Intelligence** @ *Shenzhen University*  
-> Research: <!-- 研究方向一句话，如 Agent systems / RAG / XXX -->
+### Memoir Generation Agent · Long-Context Workflow
+
+*Algorithm Engineer Intern, Tencent · Nov 2025 — Mar 2026*
+
+- Designed a structured generation workflow that transforms fragmented interviews into memoirs approaching 100,000 Chinese characters.
+- Built event clustering, knowledge-graph, and narrative-control components to maintain factual and temporal consistency, reduce repetition, and preserve style across long contexts.
+
+<br>
+
+### AuditAgent · Multi-Agent Financial Evidence Discovery
+
+*Core Developer · ICAIF 2025*
+
+- Built expert-guided reasoning components for locating fraud evidence across multi-year financial reports and organising findings into traceable problem–report–evidence chains.
+- Constructed FinFraud-Real from 1,570 regulatory cases to support realistic cross-document evidence discovery.
+
+[Paper](https://dl.acm.org/doi/10.1145/3768292.3770383) · [arXiv](https://arxiv.org/abs/2510.00156)
+
+<br>
+
+### HybriDoc · End-to-End Document Structure Extraction
+
+*Technical Lead, two-person team · CCKS 2025 — 1st Place*
+
+- Solely designed and implemented an adaptive PDF-to-Markdown pipeline integrating OCR with LLM- and tree-based structure correction.
+- Handled complex layouts, cross-page tables, and formula recognition, achieving first place in the CCKS 2025 End-to-End Document Structure Extraction Evaluation.
 
 ---
 
-### `<profile>`
+## `03 / Technical Foundation`
 
-<!-- 2~4 句话，只写事实：
-     - 你是谁、在哪个组、研究什么问题
-     - 目前在做的核心工作（客观描述，不用形容词）
-     - 不写 "passionate about" / "specialize in" 这类自我标榜
--->
+**Languages** — Python · TypeScript · C++<br>
+**Agent Systems** — Tool orchestration · RAG · Multi-agent reasoning · Context management<br>
+**Engineering** — API integration · Authentication · Request tracing · Asynchronous execution · Structured logging · Regression testing
 
 ---
 
-### `<research.interests>`
+<div align="center">
 
-<!-- 3~5 条，一行一个，格式：领域 — 具体问题 -->
-- **<!-- 领域 -->** — <!-- 你关心的具体问题，越具体越显功底 -->
+**Open to software engineering and AI agent opportunities in London.**
 
----
+[LinkedIn](https://www.linkedin.com/in/yiwei-zhang-a0a311381/) · [Email](mailto:zyw1137038537@gmail.com)
 
-### `<selected.work>`
-
-<!-- 论文 / 项目，表格。没有论文就先放项目，列名照用 -->
-| Date | Venue | Work |
-|---|---|---|
-| <!-- 2026.XX --> | <!-- 会议/期刊/GitHub --> | <!-- 标题 + 一句话说明 --> |
-
----
-
-### `<experience>`
-
-<!-- 实习 / 比赛 / 获奖，同样表格 -->
-| Date | Item |
-|---|---|
-| <!-- 2025.XX --> | <!-- 内容，客观陈述结果，如 "Rank x/xxx" --> |
-
----
-
-### `<tech.stack>`
-
-<!-- 只列真正在用的。宁少勿多 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,linux" />
-</p>
-
----
+</div>
