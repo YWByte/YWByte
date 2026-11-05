@@ -29,6 +29,12 @@ Multi-agent reasoning, cross-document evidence discovery, and structured documen
 
 ## `02 / Selected Engineering Work`
 
+### Tencent Hunyuan · Foundation Model Department
+
+*Algorithm Engineer Intern, Tencent · Oct 2026 — Present*
+
+<br>
+
 ### WorkBuddy · Agent Harness & Runtime
 
 *Software Engineer Intern, Tencent · Apr 2026 — Oct 2026*
