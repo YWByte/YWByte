@@ -65,6 +65,18 @@ Multi-agent reasoning, cross-document evidence discovery, and structured documen
 
 <br>
 
+### JSONPlacement · Reliable Structured Generation
+
+*First Author · arXiv preprint · Submitted to NAACL 2027*
+
+- Studied placement failures in LLM-generated JSON, where correct values can be assigned to the wrong records or nesting levels. Introduced JSONPlacement to isolate placement from value extraction across six open-weight models.
+- Distinguished record-assignment failures from hierarchy-construction failures, then tested traversal-aligned inputs and per-record path outputs as separate and combined interventions.
+- The combined approach produced exact outputs for three 8–12B models on every newly generated synthetic instance and a real-data validation set.
+
+[arXiv](https://arxiv.org/abs/2608.25358)
+
+<br>
+
 ### AuditAgent · Multi-Agent Financial Evidence Discovery
 
 *Core Developer · Feb 2025 — Sep 2025 · ICAIF 2025*
@@ -110,7 +122,7 @@ Sep 2019 — Jun 2023
 - **ICAIF 2025 · Published** — AuditAgent: Expert-Guided Multi-Agent Reasoning for Cross-Document Fraudulent Evidence Discovery. [Paper](https://dl.acm.org/doi/10.1145/3768292.3770383) · [arXiv](https://arxiv.org/abs/2510.00156)
 - **CCKS 2025 · Published** — HybriDoc: An Adaptive Multi-Path Framework for End-to-End Document Structure Extraction.
 - **arXiv preprint** — Context Prologue: Recoverable Context Compilation for Tool-Using Agents.
-- **Submitted to NAACL 2027** — Where vs What: Decomposing Structural and Content Failures in LLM-Generated Structured Outputs.
+- **Submitted to NAACL 2027 · First Author · arXiv preprint** — Right Values, Wrong Places: Diagnosing and Fixing Record Misplacement in LLM-Generated JSON. [arXiv](https://arxiv.org/abs/2608.25358)
 
 ---
 
