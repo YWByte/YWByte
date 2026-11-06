@@ -112,9 +112,6 @@ Multi-agent reasoning, cross-document evidence discovery, and structured documen
 Sep 2024 — Expected Jun 2027<br>
 Research: LLM agents, RAG, multi-agent systems, long-context workflows, and document intelligence.
 
-**Guangdong Ocean University** · Bachelor's in Electronic Information Engineering<br>
-Sep 2019 — Jun 2023
-
 ---
 
 ## `05 / Publications & Research`
