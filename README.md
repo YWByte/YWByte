@@ -29,7 +29,7 @@ Multi-agent reasoning, cross-document evidence discovery, and structured documen
 
 ## `02 / Selected Engineering Work`
 
-### Tencent Hunyuan · Foundation Model Department · 青云计划
+### Tencent Hunyuan · Foundation Model Department · Tencent Project UP
 
 *Algorithm Engineer, Tencent · Oct 2026 — Present*
 
